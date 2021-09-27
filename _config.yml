@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # 테마 설정 "air", "aqua", "contrast", 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "세상의 중심, 울룰루" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
+title                    : "세상의 중심 울룰루" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
 title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome to Jekyll | Minimal Mistakes</title> 해당 형식으로 들어갑니다.
 subtitle                 : "hello, world!" # 타이틀 아래에 나올 작은 글씨 
 name                     : # 맨 하단 이름 찍히는 영역
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "모험하는 개발자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "월급쟁이 😎"
+  location         : "Republic Of Korea"
   email            :
   links:
     - label: "Email"
